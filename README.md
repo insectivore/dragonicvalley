@@ -4,4 +4,6 @@ It is far from finished. I think it will eventually become a personal blog, a ga
 
 It is themed after dragons because I like them.
 
+My site will eventually be supported by https but it isn't right now because Namecheap is a little bitch and is causing me troubles
+
 :))
