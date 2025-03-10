@@ -15,7 +15,7 @@ body {
 	font-size: 29px;
 	font-family: "Pirata One";
 }
-#links {
+#link {
 	float: right;
 	padding: 15px;
 }
@@ -28,9 +28,25 @@ body {
 	top: 0;
 	padding: 0px
 }
+#div1 {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	position: absolute;
+	top: 122px;
+	left: 165px;
+}
+#div2 {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	position: absolute;
+	top: 405px;
+	left: 165px;
+}
 #intro {
 	position: relative;
-	top: 135px;
+	top: 175px;
 	max-width: 435px;
 	padding: 10px;
 	margin-left: 20px;
@@ -40,6 +56,28 @@ body {
 	border-color: #1a2840;
 	box-sizing: border-box;
 	height: 220px;
+}
+#cproj {
+	position: relative;
+	top: 250px;
+	max-width: 435px;
+	padding: 0px;
+	margin-left: 10px;
+	height: 400px;
+}
+#latestupdate {
+	float: right;
+	width: 600px;
+	background-image: url("tanpaper.jpg");
+	border-style: solid;
+	border-width: 3px;
+	border-color: #25190b;
+	box-sizing: border-box;
+	height: 220px;
+}
+#checkitout{
+	font-size: 25px;
+	font-family: "Pirata One";
 }
 .inttext {
 	text-align: left;
@@ -54,4 +92,19 @@ body {
 }
 .float-child {
 	float: left;
+}
+.subtext{
+	font-family: "Almendra SC";
+	font-size: 17px;
+}
+#formdiv {
+	position: relative;
+	top: 440px;
+}
+#btmleft {
+	position: absolute;
+	top: 866px;
+	padding: 0;
+	margin: 0;
+	border: 0;
 }
