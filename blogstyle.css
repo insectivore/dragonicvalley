@@ -23,7 +23,7 @@ body{
 	padding: 50px;
 }
 .post{
-	width: 800px;
+	width: 1000px;
 	background-image: url("tanpaper.jpg");
 	border-style: solid;
 	border-width: 3px;
@@ -34,6 +34,9 @@ body{
 	text-align: left;
 	top: 0;
 	left: 0;
+}
+#postdiv{
+	height:30px;
 }
 .date{
 	font-size: 12px;
