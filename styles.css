@@ -74,6 +74,14 @@ body {
 	border-color: #25190b;
 	box-sizing: border-box;
 	height: 220px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: left;
+	top: 0;
+	left: 0;
+}
+#lulink{
+	cursor: pointer;
 }
 #checkitout{
 	font-size: 25px;
@@ -107,4 +115,26 @@ body {
 	padding: 0;
 	margin: 0;
 	border: 0;
+}
+.date{
+	font-size: 12px;
+	text-align: right;
+	top: 0;
+	right: 0;
+}
+.mage{
+	font-family: "Almendra SC";
+	font-size: 18px;
+	padding: 0;
+	color: #B30000;
+	text-shadow:
+		1px 1px 0 #000,
+		-1px 1px 0 #000,
+		-1px -1px 0 #000,
+		1px -1px 0 #000;
+}
+.postcontent{
+	font-size: 18px;
+	padding: 0;
+	color: black;
 }
