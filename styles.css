@@ -57,6 +57,9 @@ body {
 	box-sizing: border-box;
 	height: 220px;
 }
+#subtext {
+	
+}
 #cproj {
 	position: relative;
 	top: 250px;
